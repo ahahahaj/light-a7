@@ -10,27 +10,27 @@ global.antitags = true
 //global.autoTyping = false //auto tying in gc (true to on, false to off)
 //global.autoRecord = true //auto recording (true to on, false to off)
 
-global.Owner = ['916297175943','919362639362']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.OwnerNumber = ['916297175943','919362639362']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
-global.ownertag = ['916297175943']
-global.BotName = "A17"
-global.packname = "A17 bot"
-global.author = "By: Kai"
-global.OwnerName = "Kai"
-global.BotSourceCode = "https://github.com/Kai0071/A17"
-global.SupportGroupLink = "https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"
+global.Owner = ['971553527240','971553527240']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.OwnerNumber = ['971553527240','971553527240']  //If you want singal number so global.Owner = ['916297175943'] Change into your number
+global.ownertag = ['971553527240']
+global.BotName = "زيرو تو"
+global.packname = "زيرو تو"
+global.author = "ب: لايت"
+global.OwnerName = "لايت"
+global.BotSourceCode = "https://github.com/ahahahaj"
+global.SupportGroupLink = "https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['.'] 
 
 
-global.location = "West Bengal, India"
+global.location = "Africa ,egypt"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
-global.vidmenu = { url: 'https://media.tenor.com/Jdu0Ov8X2sIAAAAC/A17-Bot.mp4' }
-global.websitex = "https://github.com/Kai0071"
+global.vidmenu = { url: 'https://tenor.com/50f8b882-c29c-4ae8-b026-98d00fd91e69' }
+global.websitex = "https://github.com/ahahahaj"
 global.lolhuman = "KaysaS"
 
 
@@ -61,19 +61,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Dear*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Yeah!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Okey ?!',
-    botonly: 'Only the *Bot itself* can use this command!',
-    waiting: ' Ruko Zara...',
-    nolink: 'Please provide me *link*, Uff!',
-    error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!, Haha',
-    bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert  Uff! This is not a NSFW enabled group!, Uff!,'
+    jobdone: 'اصبر ياخي لاتتسرع...',
+    useradmin: 'الميزه دي للادمن بس!!!',
+    botadmin: 'اعطي للبوت ادمن لتشتغل الميزه!!.',
+    botowner: 'لعمك مطوري بس ✨!',
+    grouponly: 'الميزه للقروبات بس يغبي!',
+    privateonly: 'الميزه للخاص بس!',
+    botonly: 'البوت بس يقدر يستخدم الامر!!',
+    waiting: ' اصبر ياخي...',
+    nolink: 'فين الرابط ؟!',
+    error: 'خطء!',
+    banned: 'تم حظرك من استخدام البوت بنجاح✅',
+    bangc: 'البوت تبند من القروب بنجاح✅!',
+    nonsfw: ميزه الnsfw مقفوله!,'
     
 }
 
