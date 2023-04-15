@@ -30,7 +30,7 @@ global.location = "Africa ,egypt"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://tenor.com/50f8b882-c29c-4ae8-b026-98d00fd91e69' }
-global.websitex = "https://github.com/ahahahaj"
+global.websitex = "https://github.com/Kai0071"
 global.lolhuman = "KaysaS"
 
 
