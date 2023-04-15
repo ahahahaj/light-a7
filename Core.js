@@ -2261,12 +2261,12 @@ replay('This Group has been *unbanned* from using me!')
 
 case 'support': case 'supportgc':
     
-    reply(`⚙ *My developer's group:* ⚙ http://gg.gg/12ewfs`)
+    reply(`⚙ *قروب التطوير:* ⚙ https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX `)
     break
 
 case 'repo': case 'botrepo':
     
-    reply(`⚙ My Source Code is </> - https://github.com/Kai0071/A17`)
+    reply(`⚙ قروب التطوير </> - https://chat.whatsapp.com/LAASmxox5c75HILkYXe2AX `)
     break
 
 case 'nsfwmenu':
